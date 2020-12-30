@@ -4,7 +4,7 @@ After deciding to move on from Unity3D and create my own engine, I have decided 
 No third-party code, assets, Unity3d project files, etc. is included. This is pure source code.
 
 # Content description
-This is the source code for an accelerometer based game using Unity3D. The project was created on Unity 5.x, but later upgraded to Unity 2018 without testing. As a result, it might or might not work.
+This is the source code for an accelerometer based game using Unity3D. The project was created on Unity 5.x, but later upgraded to Unity 2018 without testing. As a result, the code might or might not work on other versions.
 
 Main features:
 - Accelerometer controls
